@@ -1,0 +1,12 @@
+*.rom
+*.ROM
+*.mx2
+*.sram
+*.SRAM
+salida/
+obj/
+src/fuente.bin
+src/tabla.bin
+src/titulo.bin
+titulo/titulo_es.png
+__pycache__/

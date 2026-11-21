@@ -1,0 +1,1831 @@
+# Taiyou no Shinden - Asteka II: traducción al castellano
+# [dirección] = clave (dirección del texto japonés en la página 4; @ = cadena acabada en FFh)
+# es: traducción. \n salto de línea, \t tabulador, \p página nueva (final), {_} espacio
+# Ventana de mensajes: 3 líneas de 64 caracteres. Recuadros (lugar, objetos): 32. Menús: 48.
+
+[8720] 0000
+es: Por ahí no se puede ir.
+
+[872B] 0001
+es: Delante hay una estatua de doncella, una de anciano y una de guerrero.
+
+[8741] 0002
+es: Es un suelo antiguo.
+
+[8747] 0003
+es: Es un techo tan bajo que, si te estiras, te darás con la cabeza.
+
+[875D] 0004
+es: Tiene la postura de sujetar algo con las dos manos.
+
+[8770] 0005
+es: Tiene la postura de sujetar algo con la mano derecha.
+
+[8783] 0006
+es: De las tres estatuas, esta es la más alta. Lleva un adorno en el pecho.
+
+[87A3] 0007
+es: Con el polvo no se aprecia bien, pero en el adorno, tallado con un dibujo complicado, hay engastada una gema de unos 2 cm.
+
+[87D4] 0008
+es: Es el edificio de Las Monjas. En esta sala de techo bajo hay tres estatuas de piedra.
+
+[87F4] 0013
+es: Has sacado a la fuerza el centro del pectoral.
+
+[8806] 0015
+es: En el borde, tallado con un dibujo complicado, brilla una gema.
+
+[8823] 0016
+es: Has sacado el adorno, pero has roto el borde.
+
+[883B] 0024
+es: Has esperado.
+
+[8842] 0025
+es: Parece que en la pared hay algo pintado, como un mural.
+
+[885B] 0026
+es: Parece que se mueve al ritmo de tu corazón.
+
+[8872] 0028
+es: No puedes llevar la llave: es más grande que tú y que la salida.
+
+[8887] 0030
+es: Hay un pequeño ventanuco para mirar.
+
+[8894] 0031
+es: Es un suelo circular sin nada de particular.
+
+[88A7] 0032
+es: En el techo hay dos o tres ventanitas por las que entra la luz.
+
+[88C5] 0033
+es: Se ve justo el Grupo de las Mil Columnas y, a lo lejos, el Templo de los Guerreros.
+
+[88E1] 0034
+es: Es un pedestal redondo de piedra, de unos 15 cm de diámetro y unos 50 cm de alto. Parece hecho para poner algo encima.
+
+[8914] 0035
+es: Estás dentro de El Caracol. En el centro de la sala circular hay un pedestal de piedra.
+
+[8931] 0036
+es: La bola ha encajado perfectamente en el pedestal.
+
+[8944] 0037
+es: No tiene nada de particular. Eso sí, también hay un ventanuco.
+
+[8963] 0038
+es: Es un suelo firme. No hay de qué preocuparse.
+
+[8979] 0040
+es: Hay un pequeño ventanuco y, a la derecha, una escalera.
+
+[898E] 0041
+es: Hay una bola de plata colocada.
+
+[899A] 0042
+es: Recibe la luz que entra por el techo y brilla con fuerza.
+
+[89B3] 0043
+es: En el pedestal del centro hay una bola de plata.
+
+[89C8] 0044
+es: El sonido de la flauta ha resonado en el edificio. Y entonces...
+
+[89DE] 0046
+es: El ventanuco está iluminado por un resplandor que brota a chorros.
+
+[89FE] 0047
+es: Nada ha cambiado. Procura no ensuciarlo con esos zapatos tan sucios.
+
+[8A1B] 0049
+es: La luz deslumbrante quema tanto que no puedes acercarte a la ventana.
+
+[8A34] 0050
+es: La bola brilla, pero el pedestal no ha cambiado en nada.
+
+[8A4F] 0051
+es: Antes de dar luz era de plata, seguro; ahora es transparente, como de cristal de roca.
+
+[8A70] 0052
+es: Sale disparada en línea recta hacia la ventana, como un láser.
+
+[8A92] 0053
+es: Al sonar la flauta, la bola se ha vuelto transparente de golpe y ha empezado a dar luz.
+
+[8AAF] 0054
+es: Has cogido la bola del pedestal. Ha vuelto a ser de color plata.
+
+[8ACD] 0055
+es: Es un pedestal redondo de unos 15 cm de diámetro y 40 cm de alto. Tiene un doble escalón, como para poner algo.
+
+[8AFA] 0056
+es: La luz solo entra; no se refleja.
+
+[8B0F] 0057
+es: Es un cenote de agua fresca y limpia. El viento riza la superficie.
+
+[8B2C] 0058
+es: La superficie ondulante refleja la luz y centellea.
+
+[8B46] 0059
+es: Es el Cenote del Sur. No parece muy profundo.
+
+[8B5A] 0060
+es: Está fresquita y da gusto. Con esto saldría cualquier mancha.
+
+[8B7C] 0061
+es: Está transparente.
+
+[8B84] 0062
+es: En efecto, parece que hay una flauta de oro enterrada.
+
+[8B98] 0063
+es: Se ven unos agujeros y una boquilla, pero nada más.
+
+[8BB8] 0064
+es: ¡En el fondo del cenote hay algo enterrado, como una flauta que brilla con un color dorado!
+
+[8BD8] 0065
+es: La has cogido con cuidado para no romperla.
+
+[8BEA] 0067
+es: Parece que no hay nada.
+
+[8BF3] 0068
+es: Es el Cenote del Sur, pero no parece que haya nada especial.
+
+[8C08] 0069
+es: Es una flauta de oro de unos 25 cm, pero por desgracia tiene un agujero abajo y está rota.
+
+[8C2A] 0071
+es: El aire se escapa por el agujero de abajo y solo suena un ruido raro.
+
+[8C41] 0072
+es: De momento has tapado el agujero con una tirita.
+
+[8C5B] 0077
+es: Parece una pared sin ningún adorno.
+
+[8C69] 0078
+es: No hay nada en el suelo.
+
+[8C73] 0079
+es: El techo es algo alto: mide unos 3 metros.
+
+[8C87] 0080
+es: Lo llaman la Tumba del Gran Sacerdote, pero no hay nada.
+
+[8C9F] 0081
+es: ¡Oh! La pared de la derecha...
+
+[8CAE] 0082
+es: La pared de la derecha parece una puerta secreta giratoria.
+
+[8CC3] 0084
+es: Por mucho que lo mires no se va a caer. Tranquilo.
+
+[8CDF] 0086
+es: Parece hecha de una losa gruesa de roca.
+
+[8CF1] 0087
+es: Es la Tumba del Gran Sacerdote, con la puerta secreta abierta.
+
+[8D03] 0088
+es: La puerta se ha cerrado.
+
+[8D0C] 0089
+es: Está oscuro y no se ve bien, pero parece una pared normal.
+
+[8D28] 0090
+es: Parece un suelo pulido y liso.
+
+[8D3B] 0092
+es: Está toda tallada con dibujos y parece sellada con una gruesa losa de piedra.
+
+[8D5B] 0093
+es: Toda la superficie está cubierta de teselas de distintas formas y tamaños.
+
+[8D76] 0094
+es: Parece que significa algo, pero no hay manera de entenderlo.
+
+[8D8B] 0095
+es: En medio de la sala en penumbra hay un sarcófago de piedra.
+
+[8DA1] 0096
+es: No parece que haya cambiado nada, pero...
+
+[8DB1] 0097
+es: Hay algo parecido a un pasadizo que lleva hacia abajo.
+
+[8DC4] 0099
+es: No sabes adónde lleva, pero parece que se puede bajar.
+
+[8DDF] 0100
+es: No hay nada.
+
+[8DE7] 0101
+es: Al mover el sarcófago, debajo había un agujero que parece un pasadizo.
+
+[8DFE] 0103
+es: Lo has devuelto a su sitio.
+
+[8E0A] 0104
+es: Hay una que llama mucho la atención.
+
+[8E17] 0106
+es: Parece que significa algo, pero no se entiende nada.
+
+[8E2D] 0108
+es: Has sacado la que más llamaba la atención.
+
+[8E3D] 0111
+es: Dentro del sarcófago duerme en silencio una momia con una máscara.
+
+[8E5D] 0112
+es: La momia ya está en los huesos. Lleva una máscara en la cara.
+
+[8E82] 0113
+es: Es una máscara con un ojo abierto. Tiene un aire gracioso.
+
+[8E99] 0116
+es: El interior del sarcófago está al descubierto. Parece que guarda una momia.
+
+[8EBB] 0117
+es: Al moverla con mucho miedo, ves algo debajo de la calavera.
+
+[8ED4] 0118
+es: Ya está en los huesos. Da escalofríos.
+
+[8EE8] 0120
+es: Algún día tú también acabarás así...
+
+[8EF9] 0122
+es: No parece que tenga nada especial.
+
+[8F08] 0123
+es: Son huesos.
+
+[8F0F] 0124
+es: El agujero que había debajo de la calavera parece el ojo de una cerradura.
+
+[8F2A] 0125
+es: Es donde has movido la calavera. Parece que hay un agujero.
+
+[8F41] 0126
+es: Ha sonado un clic. La tapa se cierra sola.
+
+[8F61] 0127
+es: ¡Vaya! La pared está brillando. En la pared hay un dibujo.
+
+[8F78] 0128
+es: Es un suelo liso y brillante.
+
+[8F86] 0130
+es: El dibujo de la pared parece un emblema con una gema engastada.
+
+[8FA3] 0131
+es: Parece un ataúd transparente. Se ve al difunto a través.
+
+[8FB9] 0132
+es: Parece que solo está dormido. Lleva una máscara.
+
+[8FD9] 0133
+es: Al mirar la gema, te sientes como si te fuera a tragar un agujero negro.
+
+[9006] 0134
+es: En el centro del emblema de la pared hay engastada una gema negrísima.
+
+[9025] 0136
+es: ¡Oh! La luz que cae del techo se refleja en el espejo de oro, da en la gema del emblema y la pared tiembla y se va abriendo.
+
+[9059] 0139
+es: La salida se ha cerrado a tus espaldas.
+
+[906B] 0140
+es: Es la salida de la cámara del ataúd, que antes solo era pared.
+
+[907C] 0142
+es: Solo hay un ataúd en el centro.
+
+[9089] 0144
+es: Es lo bastante grande para que pase una persona.
+
+[9098] 0145
+es: Es un ataúd que parece de cristal. En un extremo hay un hueco.
+
+[90B4] 0150
+es: Es un ataúd... pero ¿cómo pudieron fabricar algo así?
+
+[90D3] 0151
+es: La llave de cristal encaja justo en el hueco. El ataúd se va abriendo.
+
+[90F4] 0152
+es: El ataúd está abierto y deja ver el cuerpo de la difunta.
+
+[910D] 0153
+es: Envuelta en sus ropas, parece que simplemente duerme.
+
+[9126] 0154
+es: Es una máscara lujosa con los dos ojos abiertos.
+
+[9139] 0155
+es: El ataúd está abierto. Seguro que ella era la gran sacerdotisa.
+
+[9152] 0156
+es: ¿De verdad está muerta? Tiene un rostro sereno que irradia nobleza.
+
+[917A] 0157
+es: El ataúd está abierto. Parece de una mujer de muy alto rango.
+
+[9197] 0158
+es: Es una pared con el estuco desconchado aquí y allá.
+
+[91AB] 0159
+es: Hay un hueco en el centro.
+
+[91B7] 0160
+es: Es un techo con el estuco a punto de caerse a trozos.
+
+[91CC] 0161
+es: Parece que hay una escalera para bajar.
+
+[91DC] 0162
+es: Es un agujero de unos 3 x 5 cm y de 3 a 5 cm de hondo.
+
+[91F8] 0163
+es: Es El Castillo, también llamado Templo de Kukulcán.
+
+[9216] 0164
+es: El bloque azul ha encajado, el suelo ha temblado un poco y ha aparecido una entrada.
+
+[9238] 0165
+es: Es una pared muy vieja.
+
+[9240] 0166
+es: Hay una escalera que baja.
+
+[924D] 0167
+es: Es un techo viejo con el estuco a punto de caerse.
+
+[9262] 0168
+es: Está encajado en el agujero.
+
+[926C] 0169
+es: Hay un bloque azul encajado.
+
+[927C] 0170
+es: Parece que lleva hacia abajo.
+
+[9288] 0171
+es: Es El Castillo. En el suelo hay una escalera.
+
+[929C] 0172
+es: Lo has cogido, pero la entrada al subterráneo se ha cerrado.
+
+[92B4] 0173
+es: Delante tienes una pared que corta el paso. Tiene un hueco.
+
+[92CF] 0174
+es: Hay un hueco raro en la pared. ¿No has visto otro parecido en algún sitio?
+
+[92F1] 0175
+es: Callejón sin salida. Una pared te corta el paso.
+
+[9308] 0176
+es: La tesela encaja con un clic y la pared se desliza hacia arriba.
+
+[9324] 0177
+es: Es una varita fina de unos 15 cm con una bola en la punta, a la que se ha pegado arena de hierro.
+
+[934D] 0178
+es: Parece que con esto se podría encender fuego.
+
+[935D] 0180
+es: Es una peana de unos 4 cm de alto. Encima cabe algo de 12 a 15 cm.
+
+[9380] 0181
+es: Es una gema roja y transparente de unos 2 cm.
+
+[9395] 0182
+es: Está reparada con una tirita.
+
+[93AB] 0183
+es: Es una vasija rara con algo como una aguja en el centro.
+
+[93C6] 0184
+es: Tiene una forma extraña, pero es un incensario.
+
+[93DB] 0185
+es: Parece una simple piedra roja.
+
+[93E7] 0186
+es: Esta masa verde es incienso de copal para ofrecer a los dioses mayas.
+
+[9400] 0187
+es: ¡Vaya! Parece una llave hecha de cristal de roca.
+
+[9414] 0188
+es: Parece una simple piedra blanca.
+
+[9420] 0189
+es: Parece una simple piedra azul.
+
+[942C] 0190
+es: Está bien enlucida de estuco y parece muy bien conservada.
+
+[9449] 0191
+es: Rebosa de tesoros: montones de oro y plata, y está lleno de vasijas y cofres de piedra.
+
+[946E] 0192
+es: Como buena cámara del tesoro, no tiene ni una sola mancha.
+
+[948E] 0193
+es: Es una estatua de mujer sin cabeza. Parece que guarda el tesoro.
+
+[94AD] 0195
+es: ¿Cuánto valdrá todo esto junto?
+
+[94BE] 0197
+es: Es una vasija tosca y primitiva.
+
+[94D0] 0198
+es: Parece una vasija hecha uniendo muchos trozos de piedra.
+
+[94E8] 0199
+es: Parece que dentro hay algo como agua.
+
+[94FE] 0200
+es: Dentro hay algo como agua. Por el tamaño, debe de ser colirio.
+
+[9522] 0201
+es: Es la cámara secreta del tesoro: montones de oro, vasijas, cofres de piedra y una estatua de mujer.
+
+[9547] 0202
+es: Al poner la cabeza de plata en la estatua, se ha abierto una entrada en el suelo de delante.
+
+[955E] 0204
+es: Al rebuscar para coger algo manejable, has encontrado dentro una gema roja.
+
+[957E] 0205
+es: Al abrir el cofre, dentro había una bolsa de piel.
+
+[9592] 0206
+es: Lo has cogido.
+
+[9598] 0209
+es: Dentro hay dos bolas de incienso.
+
+[95A5] 0211
+es: Está colocada en la estatua de mujer.
+
+[95B1] 0212
+es: Parece que sigue hacia abajo.
+
+[95BE] 0213
+es: La cabeza de plata está puesta en la estatua de mujer y en el suelo ha aparecido una escalera.
+
+[95DA] 0214
+es: Al poner la cabeza de oro en lugar de la de plata, la entrada del suelo se ha cerrado.
+
+[95FA] 0215
+es: Está encajada en la estatua de mujer.
+
+[9606] 0216
+es: ¡N-no sale!
+
+[960E] 0217
+es: Es una pared sin nada de particular.
+
+[961D] 0218
+es: Es la escalera que lleva a la cámara del tesoro.
+
+[962A] 0219
+es: Está abierta en el techo.
+
+[9634] 0221
+es: En el techo hay una salida abierta; subiendo la escalera se puede salir.
+
+[964C] 0222
+es: Es una sala rodeada de paredes por los cuatro lados. En el techo hay una salida.
+
+[9669] 0223
+es: No se ve nada de particular.
+
+[9679] 0224
+es: Se puede subir hasta el techo.
+
+[968A] 0225
+es: Es un suelo normal y corriente, sin nada especial.
+
+[969C] 0226
+es: Hay una escalera, pero en el techo no hay ni un solo agujero.
+
+[96B1] 0227
+es: Es una sala cerrada, rodeada de paredes por los cuatro lados.
+
+[96C2] 0233
+es: Varios engranajes engranan entre sí y parecen moverse con la manivela.
+
+[96DF] 0234
+es: Tiene un asa y se puede girar.
+
+[96F5] 0235
+es: Hay varios engranajes fijados a la pared.
+
+[970B] 0236
+es: Es un eje donde parece que iba montada alguna pieza.
+
+[9721] 0237
+es: Es el sótano de El Castillo. En la pared parece haber algún mecanismo.
+
+[9744] 0238
+es: El trinquete ha quedado fijado al eje.
+
+[9752] 0239
+es: Lo has sacado, pero parece que has partido el eje que lo sujetaba.
+
+[9771] 0240
+es: Al girarla hace ruido de engranajes, pero al soltarla vuelve sola a su sitio.
+
+[9794] 0241
+es: Parece bien fijado al eje.
+
+[97A7] 0242
+es: Tras el ruido de engranajes, bajo el suelo empieza a retumbar un estruendo tremendo.
+
+[97C6] 0243
+es: Es el mecanismo de engranajes. Le han quitado la manivela.
+
+[97E1] 0244
+es: Crece hierba.
+
+[97EC] 0245
+es: Es una columna decorada con dibujos de todo tipo.
+
+[97FC] 0246
+es: Es el Grupo de las Mil Columnas. Hay muchísimas columnas en fila.
+
+[9811] 0247
+es: Aparte de la hierba, no hay nada de particular.
+
+[982A] 0248
+es: Al fondo hay una columna que brilla.
+
+[983B] 0250
+es: Es el Grupo de las Mil Columnas. Una columna del fondo está brillando.
+
+[9850] 0251
+es: Recibe la luz y resplandece.
+
+[985C] 0253
+es: Es tierra normal, pero...
+
+[9869] 0254
+es: Has llegado delante de la columna que brilla.
+
+[9877] 0257
+es: Está brillando.
+
+[987E] 0258
+es: Deslumbra un poco.
+
+[988C] 0259
+es: Había una bola de oro enterrada.
+
+[989B] 0260
+es: ¡Has encontrado una bola de oro!
+
+[98A9] 0261
+es: Es una bola de oro puro de 12 a 15 cm de diámetro.
+
+[98BC] 0262
+es: Has levantado la base de la columna y ha salido una bola de oro.
+
+[98DB] 0263
+es: Has encontrado una cabeza de plata.
+
+[98E7] 0264
+es: Hay una cabeza de plata tirada en el suelo.
+
+[98F5] 0265
+es: Es una cabeza humana esculpida con los dos ojos abiertos. Por desgracia, no se sabe si es de hombre o de mujer.
+
+[9917] 0266
+es: Al quitar el bloque ha aparecido una cabeza de oro.
+
+[992C] 0267
+es: Lo has dejado.
+
+[9933] 0268
+es: Lo has cogido. ¡Uf, cómo pesa...!
+
+[9943] 0270
+es: Es una cabeza humana de oro puro. Por desgracia, no se sabe si es de hombre o de mujer.
+
+[9965] 0273
+es: En la base excavada de la columna no hay nada.
+
+[9979] 0274
+es: La pared en sí no tiene nada de particular.
+
+[998E] 0275
+es: Es un suelo normal.
+
+[9995] 0276
+es: Es un techo de lo más corriente.
+
+[99A0] 0277
+es: Sujeta la bola de plata con las dos manos.
+
+[99AE] 0278
+es: Es una estatua de guerrero que parece que sujetaba algo en la mano.
+
+[99C2] 0280
+es: Es una bola de 8 a 12 cm que brilla débilmente.
+
+[99D7] 0281
+es: Es una gema preciosa de unos 2 cm, casi transparente.
+
+[99EF] 0282
+es: Es el Templo de los Guerreros. A la izquierda, una doncella; a la derecha, un guerrero; y de frente, un jaguar.
+
+[9A12] 0283
+es: Nada más tocarla para cogerla, la estatua ha empezado a moverse.
+
+[9A29] 0284
+es: No parece que haya nada sospechoso.
+
+[9A39] 0285
+es: Representa a un guerrero de porte gallardo.
+
+[9A49] 0286
+es: Lleva una gema azul en la frente.
+
+[9A58] 0287
+es: Es una gema de un azul misterioso, casi transparente.
+
+[9A6C] 0290
+es: Ya no es más que una estatua de jaguar.
+
+[9A7A] 0293
+es: En el centro de la pared donde estaba el jaguar hay un agujerito.
+
+[9A95] 0294
+es: Has mirado dentro del agujero.
+
+[9AA0] 0295
+es: Es el Templo de los Guerreros, pero el jaguar ha desaparecido.
+
+[9AB9] 0296
+es: ¡Ha aparecido un jaguar!
+
+[9AC5] 0298
+es: Hay un agujero y al fondo hay algo que parece una llave.
+
+[9ADD] 0300
+es: Si cabe en el agujero, tiene que ser muy pequeña. Está oxidada.
+
+[9B02] 0301
+es: En la pared hay un agujero pequeño.
+
+[9B10] 0302
+es: Con la varita has atraído la llave y la has sacado.
+
+[9B2A] 0303
+es: Hay un agujero.
+
+[9B33] 0304
+es: Ya no hay nada.
+
+[9B3E] 0307
+es: ¡Es un jaguar azul intenso a punto de saltar sobre ti! ¡Hay que huir!
+
+[9B63] 0308
+es: Te mira enseñando los colmillos. Esto pinta peligroso de verdad.
+
+[9B83] 0309
+es: Como los demás ojos, brilla de forma siniestra.
+
+[9B98] 0310
+es: ¡La estatua se ha convertido en un jaguar de verdad!
+
+[9BAE] 0311
+es: Al tocar una melodía que te suena de siempre, el jaguar... ¡¿vuelve a ser estatua?!
+
+[9BD8] 0312
+es: Hay un cenote.
+
+[9BDF] 0313
+es: Bueno, bajar se podría bajar, pero abajo está el cenote...
+
+[9BFF] 0314
+es: El agua está turbia y no parece muy limpia.
+
+[9C14] 0316
+es: Es el cenote sagrado al que, según dicen, se arrojaban las víctimas de los sacrificios.
+
+[9C2C] 0317
+es: Es un precipicio muy escarpado.
+
+[9C38] 0318
+es: ¡Anda! No queda nada de agua.
+
+[9C46] 0319
+es: A izquierda y derecha hay pequeñas estatuas de piedra sentadas.
+
+[9C56] 0320
+es: Está bien cerrada.
+
+[9C62] 0321
+es: Parece la estatua de un anciano.
+
+[9C6D] 0322
+es: Parece la estatua de una anciana.
+
+[9C79] 0323
+es: Es una cara enfadada.
+
+[9C83] 0324
+es: Es una cara sonriente.
+
+[9C8D] 0325
+es: A sus pies hay una calavera tirada. Da grima.
+
+[9CA3] 0326
+es: Al moverla, la puerta se va abriendo.
+
+[9CB2] 0327
+es: La cabeza se ha movido, pero solo ha hecho un ruido sordo y no ha pasado nada.
+
+[9CD3] 0328
+es: ¿Serán de las personas que ofrecieron en sacrificio...?
+
+[9CF1] 0331
+es: Está oscuro y no se ve bien, pero parece que se puede entrar.
+
+[9D05] 0333
+es: Al devolver la cabeza a su sitio, la puerta se ha cerrado.
+
+[9D16] 0334
+es: Al mover la cabeza, la puerta se ha cerrado y la cabeza ha vuelto a su sitio.
+
+[9D32] 0337
+es: Parece una cancha muy grande.
+
+[9D3E] 0338
+es: Es una pared de más de 2 metros de alto. A la derecha hay una entrada.
+
+[9D59] 0339
+es: Parece que sigue una escalera de pendiente suave.
+
+[9D6C] 0340
+es: Parece la estatua de un guerrero con una mano levantada. No tiene cabeza.
+
+[9D87] 0341
+es: Es el Juego de Pelota. A los lados hay paredes altas y de frente se ve una estatua de guerrero.
+
+[9DA6] 0342
+es: Al poner la cabeza de oro, ha aparecido una entrada en la pared de la izquierda.
+
+[9DBC] 0343
+es: En cada pared, a izquierda y derecha, hay una entrada.
+
+[9DCD] 0344
+es: La estatua del guerrero brilla con la cabeza de oro puesta.
+
+[9DE3] 0345
+es: Brilla de forma deslumbrante.
+
+[9DEE] 0346
+es: Es el Juego de Pelota. En cada pared, a izquierda y derecha, hay una entrada.
+
+[9E06] 0347
+es: Al quitar la cabeza de oro, la entrada de la izquierda se ha vuelto a cerrar.
+
+[9E25] 0348
+es: Está oscuro y no se ve bien, pero parece un suelo de piedra muy frío.
+
+[9E43] 0349
+es: En la pared de la izquierda hay un mecanismo de engranajes.
+
+[9E56] 0350
+es: Es un techo de piedra sin nada especial.
+
+[9E64] 0351
+es: Parece que varios engranajes están bloqueados por un trinquete.
+
+[9E7F] 0352
+es: Es el trozo de piedra que bloquea los engranajes.
+
+[9E8D] 0353
+es: Parece que sigue en línea recta hasta muy lejos.
+
+[9EA5] 0354
+es: Parece un eje para montar alguna pieza.
+
+[9EB5] 0355
+es: Es un pasadizo en penumbra. En la pared hay un mecanismo de engranajes.
+
+[9ECE] 0356
+es: La manivela de El Castillo ha encajado perfectamente en el eje.
+
+[9EEA] 0357
+es: Al quitar el trinquete, los engranajes han girado a toda velocidad y el pasadizo se ha cerrado.
+
+[9F0D] 0358
+es: Parece hecha de roca muy gruesa.
+
+[9F1E] 0359
+es: Están los agujeros donde iban el eje y el trinquete.
+
+[9F31] 0360
+es: Es el pasadizo subterráneo del Juego de Pelota. Un poco más adelante está bien cerrado.
+
+[9F50] 0361
+es: Has puesto el trinquete, pero no ha cambiado nada.
+
+[9F67] 0362
+es: La manivela ha quedado bien encajada en el eje.
+
+[9F7B] 0363
+es: Has quitado el trinquete.
+
+[9F85] 0364
+es: Está encajada en el eje y parece engranar bien con los engranajes.
+
+[9F9D] 0365
+es: Parece que ya no se mueve más.
+
+[9FAB] 0366
+es: Al girarla, la puerta se ha ido abriendo, pero al soltarla se ha vuelto a cerrar.
+
+[9FCD] 0367
+es: Está oscuro y no se ve bien.
+
+[9FD8] 0368
+es: No parece que tenga nada de particular.
+
+[9FEA] 0369
+es: Es un techo normal.
+
+[9FF2] 0370
+es: Estás al fondo del pasadizo subterráneo.
+
+[9FFE] 0371
+es: Al ponerte la máscara con la gema roja, has visto un bloque azul en la pared derecha.
+
+[A01F] 0372
+es: En la pared de la izquierda se ve un bloque blanco.
+
+[A030] 0373
+es: A través de la máscara se ve blanco.
+
+[A044] 0375
+es: Al quitar el bloque ha sonado un ruido sordo.
+
+[A057] 0376
+es: Al empujar el bloque, la pared se ha abierto.
+
+[A068] 0377
+es: A la derecha se ve un bloque azul.
+
+[A077] 0378
+es: Con la máscara puesta se ve azul.
+
+[A089] 0379
+es: Estás mirando con la máscara puesta. Parece que a la derecha hay un bloque azul.
+
+[A0A8] 0381
+es: A la izquierda hay una entrada.
+
+[A0B3] 0383
+es: Estás en el pasadizo subterráneo. A la izquierda hay una entrada. Te has quitado la máscara.
+
+[A0D1] 0384
+es: A la derecha hay una entrada.
+
+[A0DC] 0386
+es: Estás en el pasadizo subterráneo y a la derecha ves otro pasadizo. Te has quitado la máscara.
+
+[A0F9] 0388
+es: Tiene la forma que ves.
+
+[A106] 0389
+es: Es un bloque de la pared.
+
+[A111] 0390
+es: La pared se ha abierto.
+
+[A118] 0391
+es: En el centro del suelo hay una peana para poner una llave.
+
+[A12C] 0392
+es: Es un techo sin nada especial.
+
+[A138] 0393
+es: Solo hay una salida a la derecha.
+
+[A146] 0394
+es: Hay una llave de plata colocada.
+
+[A154] 0395
+es: Es una llave de plata de unos 20 cm.
+
+[A166] 0396
+es: Entra la luz de fuera.
+
+[A176] 0397
+es: Has llegado a una sala pequeña. En el centro, sobre una peana, hay una llave de plata.
+
+[A195] 0398
+es: Siguiendo la dirección que señala la varita, has llegado a una salita. En el centro, sobre una peana, hay una llave de plata.
+
+[A1C3] 0399
+es: Parece que la derecha lleva al laberinto subterráneo y la izquierda, al pasadizo subterráneo.
+
+[A1E1] 0401
+es: Al coger la llave ha sonado un ruido sordo y la salida de la derecha se ha cerrado.
+
+[A1FF] 0403
+es: Parece que lleva al pasadizo subterráneo.
+
+[A20E] 0404
+es: Estás en una sala pequeña. En el centro hay una llave colocada y a la izquierda, una salida.
+
+[A22E] 0406
+es: Paredes por los cuatro lados. Parece que te has quedado encerrado.
+
+[A241] 0408
+es: Has devuelto la llave, pero ya no parece pasar nada.
+
+[A259] 0409
+es: A la izquierda hay una salida. Parece que lleva al pasadizo subterráneo.
+
+[A278] 0410
+es: Al dejar la llave ha vuelto a sonar el ruido y la salida se ha cerrado en un instante.
+
+[A299] 0411
+es: Al principio la varita giraba sin parar, pero al final se ha detenido en una posición.
+
+[A2BF] 0413
+es: Parece un pasadizo en forma de laberinto.
+
+[A2D0] 0414
+es: No encuentras ninguna salida.
+
+[A2DF] 0415
+es: Es un suelo de lo más normal.
+
+[A2EB] 0416
+es: Es una pared de piedra fría al tacto.
+
+[A2F8] 0417
+es: Parece el pasadizo subterráneo. Al entrar, la entrada se ha cerrado.
+
+[A319] 0419
+es: Comparada con las demás paredes, parece algo irregular.
+
+[A32F] 0420
+es: Has llegado a un callejón sin salida de este pasadizo que parece un laberinto.
+
+[A344] 0422
+es: Es una pared bien pulida. Tiene un hueco.
+
+[A35B] 0424
+es: Estás delante de una pared derrumbada.
+
+[A368] 0425
+es: El bloque rojo ha encajado y la pared se ha abierto.
+
+[A37B] 0426
+es: Está abierta.
+
+[A382] 0427
+es: Parece que dentro hay una sala.
+
+[A392] 0428
+es: Estás delante de la pared abierta.
+
+[A39D] 0429
+es: Es el techo de una maqueta diminuta, pero está muy bien hecho.
+
+[A3BA] 0430
+es: Son las paredes de una maqueta diminuta, pero están muy bien hechas.
+
+[A3D6] 0431
+es: En el centro hay una peana con una llave encima.
+
+[A3E9] 0432
+es: Parece que sostiene una llave varias veces más grande que ella.
+
+[A401] 0434
+es: Has mirado dentro de este templo diminuto. Hay una llave de oro.
+
+[A41D] 0435
+es: Parece que este techo está hecho de un material misterioso que brilla por sí solo.
+
+[A43B] 0436
+es: Parece que el suelo está hecho de un material misterioso que brilla por sí solo.
+
+[A456] 0437
+es: A la izquierda hay una salida y las demás paredes brillan por sí solas.
+
+[A46D] 0439
+es: Parece que lleva al pasadizo subterráneo.
+
+[A47C] 0440
+es: Estás en una sala muy luminosa. Hay un templo pequeño, blanco y precioso.
+
+[A49B] 0441
+es: Te has bebido el tarro grande de medicina. ¡Oh, tu cuerpo se está encogiendo...!
+
+[A4BC] 0442
+es: Las paredes brillan por sí solas. Hay salidas a izquierda y derecha.
+
+[A4D2] 0443
+es: Tanto la derecha como la izquierda llevan al pasadizo subterráneo.
+
+[A4E5] 0444
+es: Las paredes brillan por sí solas. Hay una salida a la derecha.
+
+[A4FA] 0445
+es: Parece el pasadizo subterráneo.
+
+[A504] 0446
+es: Las paredes brillan por sí solas, pero la salida ha desaparecido.
+
+[A522] 0447
+es: Se alza imponente ante ti. Parece que has encogido muchísimo.
+
+[A545] 0448
+es: Es blanquísimo y liso; refleja la luz y centellea.
+
+[A562] 0449
+es: El templo, que hace un momento era diminuto, ahora se alza imponente.
+
+[A57D] 0450
+es: Te has bebido el tarro pequeño de medicina. ¡Menos mal, tu cuerpo vuelve a su tamaño!
+
+[A59D] 0451
+es: Está decorado con dibujos incomprensibles.
+
+[A5B0] 0453
+es: Tiene dibujos misteriosos y en la pared izquierda hay un agujero.
+
+[A5C7] 0454
+es: Hay una gran llave de oro colocada.
+
+[A5D9] 0455
+es: ¡Oh! ¡Esta es la Llave del Sol! ¡Así que este era el Templo del Sol!
+
+[A5F6] 0456
+es: Parece el ojo de una cerradura.
+
+[A603] 0457
+es: Estás dentro del templo.
+
+[A60C] 0458
+es: Al usar la llave ha sonado un chasquido metálico y el templo ha temblado.
+
+[A628] 0459
+es: Una parte del templo se ha abierto como un cofre y ya se puede coger la llave.
+
+[A647] 0460
+es: Ahí está la Llave del Sol.
+
+[A654] 0461
+es: La llave brilla de una forma digna del nombre de Llave del Sol.
+
+[A673] 0462
+es: Es el templo, que acabas de abrir.
+
+[A67F] 0463
+es: Al coger la llave, el templo se ha cerrado solo. ¡¡Por fin tienes la Llave del Sol!!
+
+[A6AD] 0464
+es: Al cerrar el templo ha sonado un clic. Parece que se ha bloqueado.
+
+[A6CA] 0465
+es: No parece que tenga nada especial.
+
+[A6D9] 0466
+es: El incienso ya está encendido.
+
+[A6E7] 0467
+es: Estás mirando el templo.
+
+[A6F0] 0468
+es: Se ha abierto.
+
+[A6F6] 0469
+es: Hay algo que parece una peana.
+
+[A702] 0470
+es: Quizá por haber estado tanto tiempo en la selva, está medio derruido por todas partes.
+
+[A726] 0471
+es: ¡Vaya, has encontrado un edificio!
+
+[A734] 0472
+es: La pared está muy desigual. Estás delante de la peana.
+
+[A74D] 0473
+es: La peana es plana y está muy bien pulida.
+
+[A760] 0474
+es: Antiguamente quizá se quemaba incienso en este altar para rezar a los dioses.
+
+[A78D] 0475
+es: Has puesto el incensario de plata en el centro.
+
+[A79B] 0476
+es: Hay un incensario de plata colocado.
+
+[A7A8] 0477
+es: Los incensarios sirven para quemar incienso, pero...
+
+[A7C1] 0478
+es: Has encendido el incienso con el mechero que traías. Huele muy bien.
+
+[A7E2] 0479
+es: Has sacado una bola de incienso.
+
+[A7EE] 0480
+es: No sabes por qué, pero te escuecen los ojos y lo ves todo doble.
+
+[A80B] 0481
+es: Sale un humo blanquecino a borbotones... Mmm... qué sensación tan extraña.
+
+[A82F] 0482
+es: Envuelto en el buen aroma, sientes que tu cuerpo se vuelve cada vez más ligero.
+
+[A84C] 0483
+es: Con el humo del incienso, la cabeza se te adormece agradablemente. Qué sensación tan rara.
+
+[A86C] 0484
+es: Es lo que ves.
+
+[A874] 0485
+es: Es una tirita normal.
+
+[A882] 0500
+es: Se ha roto y ya no se puede mirar.
+
+[A899] 0502
+es: La varita está colocada en el centro.
+
+[A8AD] 0506
+es: Hay una peana de oro colocada.
+
+[A8BA] 0507
+es: Hay una bola de oro colocada.
+
+[A8C6] 0508
+es: En el pedestal del centro hay una bola de oro.
+
+[A8DB] 0509
+es: Hace un momento era de oro, seguro; ahora es transparente, como de cristal de roca.
+
+[A8FA] 0510
+es: En el pedestal están la bola de oro y su peana.
+
+[A909] 0511
+es: Es El Caracol. En el centro están la bola de oro y su peana.
+
+[A920] 0512
+es: Has cogido la peana junto con la bola.
+
+[A92D] 0514
+es: ¿¡Q-qué le ha pasado a la bola de oro!?
+
+[A93E] 0517
+es: ¡Ay! Parece que se te ha caído algo. Lo has buscado un rato, pero no lo has encontrado.
+
+[A962] 0519
+es: No hay manera, no se mueve...
+
+[A96F] 0600
+es: No puedes mirar lo que no hay.
+
+[A97A] 0601
+es: No llevas nada así.
+
+[A98C] 0603
+es: Solo suena un ruido raro. Si sigues soplando, solo conseguirás marearte.
+
+[A9AD] 0604
+es: ¡Qué disparate! No lo moverían ni diez personas.
+
+[A9C5] 0700
+es: Como no has hecho nada, el templo se ha cerrado solo.
+
+[A9DE] 0701
+es: Del techo cae una luz misteriosa sobre el ataúd.
+
+[A9F5] 0702
+es: Dentro hay una varita. Al cogerla, se le ha pegado arena de hierro alrededor.
+
+[AA16] 0703
+es: El fondo está vacío.
+
+[AA20] 0704
+es: Lástima: tiene un gran agujero en el fondo y no hay nada.
+
+[AA37] 0705
+es: Al intentar mirar en la oscuridad te has dado un golpe en la cabeza. No hay nada.
+
+[AA56] 0707
+es: Eso ya está colocado.
+
+[AA67] 0710
+es: Parece un espejo hecho de oro, pero está sucio y no brilla.
+
+[AA88] 0711
+es: Dentro hay una bola de incienso.
+
+[AA94] 0713
+es: Es la cámara del ataúd. La luz que caía del techo ya no está.
+
+[AAAF] 0714
+es: Lástima: la bola de plata es un poco pequeña y no se sostiene en la peana.
+
+[AACC] 0715
+es: La bola se ha vuelto transparente de golpe y ha empezado a dar una luz deslumbrante.
+
+[AAE5] 0716
+es: ¡¡Si vas por ahí, te comerá el jaguar!!
+
+[AB01] 0717
+es: Es el dibujo de un joven desenterrando la cabeza de oro a la puesta de sol.
+
+[AB1B] 0718
+es: Es el dibujo de alguien que, a medianoche, se ha bebido algo y ha encogido.
+
+[AB3A] 0719
+es: Es el dibujo de cómo, con el sol en lo más alto, suena una trompeta y el jaguar vuelve a ser estatua.
+
+[AB5E] 0721
+es: Lavado con el agua fría, el espejo de oro ha quedado limpísimo y brilla reflejando la luz.
+
+[AB84] 0723
+es: Hay una pared. ¿Sería parte de un edificio? ¿O solo es una pared?
+
+[ABAA] 0724
+es: ¡Oh! Con un ruido de arrastre, el sarcófago de piedra se ha abierto solo.
+
+[ABC9] 0727
+es: Vayas por donde vayas, todo parece igual. Parece que te has perdido.
+
+[ABE8] 0728
+es: El agujero es demasiado pequeño y no cabe el dedo.
+
+[ABF9] 0730
+es: ¡Oh, la gema del centro empieza a brillar con fuerza! ¿¡Será esto el reloj solar!?
+
+[AC1C] 0740
+es: Hay dos tarros de medicina, uno grande y otro pequeño.
+
+[AC2A] 0741
+es: Hay un tarro pequeño de medicina.
+
+[AC36] 0742
+es: Hay un tarro grande de medicina.
+
+[AC42] 0750
+es: Una parte de la pared del altar brilla de color rojo.
+
+[AC55] 0751
+es: Se ha derrumbado una parte de la pared y has encontrado una cabeza de oro.
+
+[AC6A] 0753
+es: El bloque rojo recibe la luz y resplandece.
+
+[AC7D] 0755
+es: Es un simple agujero.
+
+[AC84] 0756
+es: El bloque brilla en rojo, pero no se puede sacar. ¿Qué estará pasando?
+
+[ACA7] 0760
+es: ¡Oh! Con un estruendo tremendo ha aparecido una escalera.
+
+[ACBF] 0761
+es: Has subido por una escalera de caracol que marea y has llegado al piso de arriba.
+
+[ACDE] 0762
+es: Es El Caracol. En la pared de la derecha hay una escalera.
+
+[ACF4] 0763
+es: Una escalera de caracol empinada sube hacia arriba.
+
+[AD06] 0764
+es: Es el piso de arriba de El Caracol. En el centro de la sala abovedada hay un pedestal.
+
+[AD25] 0765
+es: Hay dos ventanucos pequeños.
+
+[AD34] 0766
+es: Se ve justo el bosque del sur.
+
+[AD45] 0767
+es: A lo lejos se ve un templo medio derruido.
+
+[AD57] 0768
+es: La luz del sol que entra por el ventanuco izquierdo da en la bola de oro; se vuelve transparente de golpe y refleja la luz con fuerza.
+
+[AD87] 0769
+es: ¡Q-qué deslumbrante...! Una parte de la pared resplandece.
+
+[AD9D] 0770
+es: Has encontrado algo dentro de la pared. ¡Parece una llave hecha de cristal de roca!
+
+[ADBC] 0771
+es: La luz del sol que entra por el ventanuco derecho da en la bola de oro.
+
+[ADD8] 0772
+es: Ilumina la pared con fuerza, como si fuera un láser.
+
+[ADF3] 0775
+es: ¡E-el jaguar te ataca! ¡Aaagh...!
+
+[AE09] 0780
+es: ¿Será el aro de piedra por el que antiguamente se competía metiendo la pelota?
+
+[AE2B] 0781
+es: Ha sonado un ruido sordo y pesado, como si algo se derrumbara.
+
+[AE44] 0782
+es: De la pared sobresale un aro de piedra.
+
+[AE54] 0783
+es: Detrás de la pared derrumbada hay otra pared.
+
+[AE6A] 0784
+es: Callejón sin salida. Estás delante de una pared algo irregular.
+
+[AE82] 0785
+es: ¡Oh! ¡E-el techo se está derrumbando! ¡Brrrooom...!
+
+[AE9B] 0786
+es: SALIR
+
+[@AEA4]
+es: CARGAR
+
+[@AEAD]
+es: GUARDAR
+
+[@AEB6]
+es: 1\t2\t3\t4\t5\t6\t7\t8\t9
+
+[@AECE]
+es: Error en los datos
+
+[@AED7]
+es: Partida guardada
+
+[@AEE4]
+es: Ade\tAtr\tDer\tIzq\tSub\tBaj
+
+[@AEF1]
+es: Las Monjas
+
+[@AEF7]
+es: El Caracol
+
+[@AEFC]
+es: Cenote del Sur
+
+[@AF00]
+es: Tumba del Gran Sacerdote
+
+[@AF06]
+es: El Castillo
+
+[@AF0E]
+es: Mil Columnas
+
+[@AF13]
+es: Templo de los Guerreros
+
+[@AF19]
+es: Cenote Sagrado
+
+[@AF20]
+es: Juego de Pelota
+
+[@AF25]
+es: Ruinas del templo
+
+[@AF2A]
+es: Pared
+
+[@AF2C]
+es: Pared
+
+[@AF2E]
+es: Pared
+
+[@AF30]
+es: ¡Anda! Parece que se te ha pasado el efecto.
+
+[@AF45]
+es: Aquí eso no sirve de nada.
+
+[@AF54]
+es: No se puede mirar.
+
+[@AF5B]
+es: No se puede coger.
+
+[@AF62]
+es: No sirve de nada dejarlo.
+
+[@AF70]
+es: No se puede usar.
+
+[@AF78]
+es: No se mueve.
+
+[@AF7F]
+es: No se puede empujar.
+
+[@AF87]
+es: No se puede tirar.
+
+[@AF8F]
+es: No se puede romper.
+
+[@AF97]
+es: Lástima, no se puede.
+
+[@AFA1]
+es: No se puede lavar.
+
+[@AFA9]
+es: Has esperado.
+
+[@AFB2]
+es: Por ahí no se puede ir.
+
+[@AFBE]
+es: Bola de plata
+
+[@AFC2]
+es: Bola de oro
+
+[@AFC6]
+es: Cabeza de plata
+
+[@AFCA]
+es: Cabeza de oro
+
+[@AFCE]
+es: Máscara de un ojo
+
+[@AFD5]
+es: Máscara de dos ojos
+
+[@AFDC]
+es: Tesela de mosaico
+
+[@AFE7]
+es: Llave de plata
+
+[@AFEB]
+es: Copal
+
+[@AFF0]
+es: Incensario de plata
+
+[@AFF6]
+es: Flauta de oro
+
+[@AFFA]
+es: Peana de oro
+
+[@AFFF]
+es: Bola roja
+
+[@B003]
+es: Joya azul
+
+[@B00B]
+es: Llavecita de hierro
+
+[@B012]
+es: Trinquete de piedra
+
+[@B018]
+es: Manivela de piedra
+
+[@B01F]
+es: Varita
+
+[@B022]
+es: Vasija poco honda
+
+[@B029]
+es: Tarro grande de medicina
+
+[@B030]
+es: Tarro pequeño de medicina
+
+[@B037]
+es: Llave de cristal
+
+[@B03C]
+es: Pectoral del Sol
+
+[@B043]
+es: Tirita
+
+[@B04B]
+es: Bloque rojo
+
+[@B052]
+es: Mechero
+
+[@B05B]
+es: Llave del Sol
+
+[@B060]
+es: Bloque blanco
+
+[@B067]
+es: Bloque azul
+
+[@B06F]
+es: Pared
+
+[@B071]
+es: Suelo
+
+[@B073]
+es: Techo
+
+[@B076]
+es: Mural
+
+[@B07A]
+es: Entrada
+
+[@B07D]
+es: Ventanuco
+
+[@B080]
+es: Estatua de doncella
+
+[@B086]
+es: Estatua de guerrero
+
+[@B08B]
+es: Estatua de anciano
+
+[@B091]
+es: Hueco
+
+[@B095]
+es: Pedestal
+
+[@B098]
+es: Pectoral del Sol
+
+[@B09F]
+es: Columna
+
+[@B0A1]
+es: Agujero
+
+[@B0A3]
+es: Luz del sol
+
+[@B0A7]
+es: Paisaje
+
+[@B0AC]
+es: Templo
+
+[@B0AF]
+es: Mil Columnas
+
+[@B0B4]
+es: Puerta
+
+[@B0B6]
+es: Tapa
+
+[@B0BA]
+es: Cenote
+
+[@B0BC]
+es: Agua
+
+[@B0BE]
+es: Fondo
+
+[@B0C0]
+es: Suelo de tierra
+
+[@B0C3]
+es: Dibujo
+
+[@B0C6]
+es: Sarcófago
+
+[@B0C9]
+es: Ataúd
+
+[@B0CB]
+es: Luz
+
+[@B0CD]
+es: Máscara
+
+[@B0D1]
+es: Cadáver
+
+[@B0D5]
+es: Cara
+
+[@B0D7]
+es: Cabeza
+
+[@B0D9]
+es: Ojos
+
+[@B0DB]
+es: Calavera
+
+[@B0E0]
+es: Templo del Sol
+
+[@B0E6]
+es: Soporte
+
+[@B0EA]
+es: Entrada del templo
+
+[@B0EF]
+es: Pasadizo
+
+[@B0F2]
+es: Bloque
+
+[@B0F7]
+es: Escalera
+
+[@B0FA]
+es: Engranajes
+
+[@B0FD]
+es: Eje
+
+[@B0FF]
+es: Estatua de jaguar
+
+[@B105]
+es: Jaguar
+
+[@B10A]
+es: Roca
+
+[@B10D]
+es: Estatua derecha
+
+[@B111]
+es: Cabeza de la estatua derecha
+
+[@B117]
+es: Estatua izquierda
+
+[@B11B]
+es: Cabeza de la estatua izquierda
+
+[@B121]
+es: Estatua de piedra
+
+[@B124]
+es: Llave
+
+[@B126]
+es: Precipicio
+
+[@B129]
+es: Estatua de mujer
+
+[@B12E]
+es: Montón de oro
+
+[@B133]
+es: Cofre de piedra
+
+[@B136]
+es: Vasija del jefe
+
+[@B13D]
+es: Vasija de trozos de piedra
+
+[@B143]
+es: Arena de hierro
+
+[@B148]
+es: Bolsa de piel
+
+[@B14D]
+es: Espejo de oro
+
+[@B152]
+es: Terraza
+
+[@B156]
+es: Altar
+
+[@B15B]
+es: Humo
+
+[@B15E]
+es: Emblema
+
+[@B163]
+es: Luz
+
+[@B165]
+es: Vasija
+
+[@B168]
+es: Tarro
+
+[@B16B]
+es: Vasija grande
+
+[@B16F]
+es: Tarro grande
+
+[@B174]
+es: Ventanuco del mediodía
+
+[@B17A]
+es: Ventanuco del ocaso
+
+[@B181]
+es: Bosque
+
+[@B184]
+es: Aro de piedra
+
+[@B189]
+es: Has avanzado.
+
+[@B193]
+es: Has retrocedido.
+
+[@B19E]
+es: Has ido a la derecha.
+
+[@B1A8]
+es: Has ido a la izquierda.
+
+[@B1B2]
+es: Has subido.
+
+[@B1BA]
+es: Has bajado.
+
+[@B1C1]
+es: «Maya»: la misteriosa civilización antigua envuelta en un velo de enigmas. Los antiguos mayas observaban los astros, manejaban un complejo calendario y levantaron muchas ciudades con templos.
+
+[@B213]
+es: El tiempo, los números, la religión, la arquitectura... Cómo nació su cultura y por qué desapareció de repente sigue siendo un misterio; hoy solo quedan sus ruinas en la selva.
+
+[@B267]
+es: Según la leyenda, sus antepasados llegaron de muy lejos, del este, y gracias a la llave sagrada que entonces les dieron los dioses, podían encontrarse con ellos.
+
+[@B2B6]
+es: Siguiendo el misterio de esa llave, llamada la Llave del Sol, por fin has llegado a las ruinas de Chichén Itzá. Ahora se van a desvelar todos los misterios...
+
+[@B2FF]
+es: Pulsa el botón de reinicio (RESET).
+
+[@B312]
+es: ¡Uoooh...! ¿Qué te pasa? ¡Ay, te estás desmayando! Todo te da vueltas...
+
+[@B347]
+es: ¡Oh! ¡Delante de ti hay un templo que brilla deslumbrante!
+
+[@B363]
+es: ¿Q-qué es esto...? ¡Hay un montón de gente que parece maya reunida!
+
+[@B386]
+es: ¡Ah! ¡Has viajado en el tiempo hasta el corazón de la civilización maya!
+
+[@B3A9]
+es: ¡¡La Llave del Sol era justo la llave que abre la puerta al país de los dioses, la llave que une los tiempos!!
+
+[@B3CE]
+es: La gente se acerca hacia ti.
+
+[@B3DF]
+es: Están gritando: «¡Oh, dios nuestro!»...

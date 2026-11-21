@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE softwaredb SYSTEM "softwaredb1.dtd">
+<softwaredb>
+<software>
+  <title>Taiyou no Shinden - Asteka II (traduccion al castellano)</title>
+  <system>MSX</system>
+  <company>Tokyo Shoseki</company>
+  <year>1988</year>
+  <country>ES</country>
+  <dump><megarom><type>ASCII8SRAM8</type><hash>0593546f85a2b645f5da461d761be1538744455f</hash></megarom></dump>
+</software>
+</softwaredb>
